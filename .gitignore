@@ -1,0 +1,20 @@
+ogs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
+.grunt
+
+# Dependency directory
+node_modules
+
+# Mac OSX folder metadata
+.DS_STORE
+
+reports/*

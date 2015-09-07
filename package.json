@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "postinstall": "node_modules/.bin/webdriver-manager update"
+  },
+  "devDependencies": {
+    "flightplan": "^0.6.4",
+    "gulp": "^3.9.0",
+    "nightwatch": "^0.7.11"
+  },
+  "dependencies": {
+    "webdriver-manager": "^7.0.1"
+  }
+}
